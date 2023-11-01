@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'PS';
+    src: url('zrnicrg.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Sega';
+    src: url('SEGA.TTF') format('truetype');
+}
+
+h1 {
+    font-family: 'Sega';
+    font-weight: 500;
+    font-size: 100px;
+    color: #0ccac4;
+}
