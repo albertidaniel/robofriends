@@ -31,9 +31,9 @@ class App extends Component {
         });
         return (
             <div className="tc">
-                <Hover>
+                
                     <h1>Robo Friends</h1>
-                </Hover>
+                
                 <SearchBox searchChange={this.onSearchChange} />
                 <Scroll>
                     <CardList robots={filteredRobots} />
